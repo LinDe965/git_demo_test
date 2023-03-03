@@ -1,3 +1,4 @@
-hello Linde!
-hello git!
+hello Linde! hello Linde!
+hello git! 
 hello github!
+hello hot-fix!
